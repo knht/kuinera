@@ -1,3 +1,6 @@
+# Custom
+config/KuineraConfig.js
+
 # Logs
 logs
 *.log
